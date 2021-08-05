@@ -31,7 +31,7 @@ DB_PASSWORD=YOUR_PASSWORD
 APP_NAME="Littlelink admin"
 
 ```sh
-cd admin-littlelink
+cd littlelink-admin
 php artisan migrate
 php artisan db:seed 
 (or commands below)
