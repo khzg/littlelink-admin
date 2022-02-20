@@ -66,7 +66,7 @@
         <a class="button button-pinterest" href="#"><img class="icon" src="{{ asset('littlelink/icons/pinterest.svg') }}">Pinterest</a>
         </br></br>
 
-        <p>and {{ $countButton - 4 }} other button ...</p>
+        <p>and {{ $countButton - 4 }} other buttons ...</p>
       
         <hr class="my-4">
 
