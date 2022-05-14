@@ -6,11 +6,14 @@
 
         <form action="{{ route('editPage') }}" enctype="multipart/form-data" method="post">
           @csrf
+          @foreach($pages as $page)
+          {{-- Hides option to upload profile image if no page name is set --}}
+          @if($page->littlelink_name != '')
           <div class="form-group col-lg-8">
             <label>Logo</label>
             <input type="file" class="form-control-file" name="image">
           </div>
-          @foreach($pages as $page)
+          @endif
           <div class="form-group col-lg-8">
             <label>Littlelink name</label>
             <input type="text" class="form-control" name="pageName" value="{{ $page->littlelink_name ?? '' }}">
