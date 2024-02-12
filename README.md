@@ -17,7 +17,7 @@ LittleLink Admin is an admin panel for [littlelink] that provides you a website 
 ## 🔨 Install
 
 ```sh
-composer create-project khashayarzavosh/littlelink-admin
+composer create-project khzg/littlelink-admin
 ```
 
 - edit .env file
@@ -59,7 +59,7 @@ bitcoin: 1FQJWCZJoLKfJei7NFisTH65yNUjugJRi4
 
    [littlelink]: <https://github.com/sethcottle/littlelink>
    [linktree]: <https://linktr.ee>
-   [home]: <https://github.com/khashayarzavosh/littlelink-admin/blob/main/demo-home.png>
-   [panel]: <https://github.com/khashayarzavosh/littlelink-admin/blob/main/demo-panel.png>
+   [home]: <https://github.com/khzg/littlelink-admin/blob/main/demo-home.png>
+   [panel]: <https://github.com/khzg/littlelink-admin/blob/main/demo-panel.png>
    [laravel]: <https://github.com/laravel/laravel>
    [panel template]: <https://colorlib.com/wp/bootstrap-sidebar>
