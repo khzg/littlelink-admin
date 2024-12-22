@@ -1,9 +1,11 @@
 
-This project will no longer be updated, use its new fork and donate to me with USDT.
+## ©️ Copyright
 
-USDT(BEP20): 0x2A4eE50b2bf51c38Fe66120695976be493FcE8fF
+Copyright: All rights reserved. If you use my programs or code, you must pay me 5% of your website's monthly revenue. You can use the following address to send money to my wallet. I have tried to contribute to open-source projects or projects whose foundation is built on my code, such as (LinkStack), but there is no proper mechanism with the right timing. And now, I am legally and ethically unwilling to allow my efforts and code to be used in this project (LinkStack) or other projects and websites without considering the copyright mentioned above. thank you.
 
-https://github.com/LinkStackOrg/LinkStack
+my wallet: USDT(BEP20): 0x2A4eE50b2bf51c38Fe66120695976be493FcE8fF
+
+LinkStack: https://github.com/LinkStackOrg/LinkStack
 
 ## _⚙️ LittleLink Admin_
 
